@@ -1,0 +1,70 @@
+{
+  "exportedAt": "2026-01-28T16:34:57.601Z",
+  "casesCount": 1,
+  "skinsCount": 7,
+  "skins": [
+    {
+      "id": "skin-ec2dd0814c74_mw",
+      "name": "M4A1-S | Night Terror",
+      "marketHashName": "M4A1-S | Night Terror (Minimal Wear)",
+      "weapon": "M4A1-S",
+      "pattern": "Night Terror",
+      "rarity": "Restricted",
+      "category": "Rifles"
+    },
+    {
+      "id": "skin-b5bc3553f7e1_ww",
+      "name": "M4A4 | Polysoup",
+      "marketHashName": "M4A4 | Polysoup (Well-Worn)",
+      "weapon": "M4A4",
+      "pattern": "Polysoup",
+      "rarity": "Restricted",
+      "category": "Rifles"
+    },
+    {
+      "id": "skin-b5bc3553f7e1_bs",
+      "name": "M4A4 | Polysoup",
+      "marketHashName": "M4A4 | Polysoup (Battle-Scarred)",
+      "weapon": "M4A4",
+      "pattern": "Polysoup",
+      "rarity": "Restricted",
+      "category": "Rifles"
+    },
+    {
+      "id": "skin-32a30647e564_mw",
+      "name": "Desert Eagle | Printstream",
+      "marketHashName": "Desert Eagle | Printstream (Minimal Wear)",
+      "weapon": "Desert Eagle",
+      "pattern": "Printstream",
+      "rarity": "Covert",
+      "category": "Pistols"
+    },
+    {
+      "id": "skin-55623b84dd72_ft",
+      "name": "Desert Eagle | Ocean Drive",
+      "marketHashName": "Desert Eagle | Ocean Drive (Field-Tested)",
+      "weapon": "Desert Eagle",
+      "pattern": "Ocean Drive",
+      "rarity": "Covert",
+      "category": "Pistols"
+    },
+    {
+      "id": "skin-544a3d0462c1_ft",
+      "name": "Desert Eagle | Starcade",
+      "marketHashName": "Desert Eagle | Starcade (Field-Tested)",
+      "weapon": "Desert Eagle",
+      "pattern": "Starcade",
+      "rarity": "Classified",
+      "category": "Pistols"
+    },
+    {
+      "id": "skin-47bca40182d8_ft",
+      "name": "USP-S | Whiteout",
+      "marketHashName": "USP-S | Whiteout (Field-Tested)",
+      "weapon": "USP-S",
+      "pattern": "Whiteout",
+      "rarity": "Classified",
+      "category": "Pistols"
+    }
+  ]
+}

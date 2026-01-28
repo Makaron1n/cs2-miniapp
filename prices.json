@@ -1,0 +1,88 @@
+{
+  "lastUpdate": "2026-01-28T16:35:48.193Z",
+  "currency": "RUB",
+  "prices": {
+    "skin-ec2dd0814c74_mw": {
+      "marketHashName": "M4A1-S | Night Terror (Minimal Wear)",
+      "lowestPrice": 124.96,
+      "medianPrice": 127.72,
+      "lowestPriceRaw": "124,96 руб.",
+      "medianPriceRaw": "127,72 руб.",
+      "volume": "660",
+      "fetchedAt": "2026-01-28T15:58:01.422Z"
+    },
+    "skin-b5bc3553f7e1_ww": {
+      "marketHashName": "M4A4 | Polysoup (Well-Worn)",
+      "lowestPrice": 1160.25,
+      "medianPrice": 1066.25,
+      "lowestPriceRaw": "1160,25 руб.",
+      "medianPriceRaw": "1066,25 руб.",
+      "volume": "3",
+      "fetchedAt": "2026-01-28T15:58:05.126Z"
+    },
+    "skin-b5bc3553f7e1_bs": {
+      "marketHashName": "M4A4 | Polysoup (Battle-Scarred)",
+      "lowestPrice": 1054.78,
+      "medianPrice": 1028.03,
+      "lowestPriceRaw": "1054,78 руб.",
+      "medianPriceRaw": "1028,03 руб.",
+      "volume": "10",
+      "fetchedAt": "2026-01-28T15:58:08.811Z"
+    },
+    "skin-d26c8acd0505_fn": {
+      "marketHashName": "MP5-SD | Neon Squeezer (Factory New)",
+      "error": "Item not found on market",
+      "fetchedAt": "2026-01-28T15:58:13.030Z"
+    },
+    "skin-d26c8acd0505_mw": {
+      "marketHashName": "MP5-SD | Neon Squeezer (Minimal Wear)",
+      "error": "Item not found on market",
+      "fetchedAt": "2026-01-28T15:58:17.231Z"
+    },
+    "skin-d26c8acd0505_bs": {
+      "marketHashName": "MP5-SD | Neon Squeezer (Battle-Scarred)",
+      "lowestPrice": 5,
+      "medianPrice": 5.21,
+      "lowestPriceRaw": "5 руб.",
+      "medianPriceRaw": "5,21 руб.",
+      "volume": "1,219",
+      "fetchedAt": "2026-01-28T15:58:20.928Z"
+    },
+    "skin-32a30647e564_mw": {
+      "marketHashName": "Desert Eagle | Printstream (Minimal Wear)",
+      "lowestPrice": 4900.31,
+      "medianPrice": 4627.38,
+      "lowestPriceRaw": "4900,31 руб.",
+      "medianPriceRaw": "4627,38 руб.",
+      "volume": "63",
+      "fetchedAt": "2026-01-28T16:35:37.120Z"
+    },
+    "skin-55623b84dd72_ft": {
+      "marketHashName": "Desert Eagle | Ocean Drive (Field-Tested)",
+      "lowestPrice": 8206.48,
+      "medianPrice": 8205.52,
+      "lowestPriceRaw": "8206,48 руб.",
+      "medianPriceRaw": "8205,52 руб.",
+      "volume": "8",
+      "fetchedAt": "2026-01-28T16:35:40.817Z"
+    },
+    "skin-544a3d0462c1_ft": {
+      "marketHashName": "Desert Eagle | Starcade (Field-Tested)",
+      "lowestPrice": 8913.15,
+      "medianPrice": 8789.8,
+      "lowestPriceRaw": "8913,15 руб.",
+      "medianPriceRaw": "8789,80 руб.",
+      "volume": "6",
+      "fetchedAt": "2026-01-28T16:35:44.506Z"
+    },
+    "skin-47bca40182d8_ft": {
+      "marketHashName": "USP-S | Whiteout (Field-Tested)",
+      "lowestPrice": 10758.5,
+      "medianPrice": 10422.41,
+      "lowestPriceRaw": "10758,50 руб.",
+      "medianPriceRaw": "10422,41 руб.",
+      "volume": "7",
+      "fetchedAt": "2026-01-28T16:35:48.193Z"
+    }
+  }
+}
